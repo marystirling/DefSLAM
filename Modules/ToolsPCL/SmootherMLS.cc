@@ -20,7 +20,7 @@
 */
 
 #include <SmootherMLS.h>
-
+#include <pcl/search/kdtree.h>
 #include <pcl/point_types.h>
 #include <pcl/kdtree/kdtree_flann.h>
 #include <pcl/surface/mls.h>
